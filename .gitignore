@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Temporary files
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# macOS metadata
+.AppleDouble
+.LSOverride
